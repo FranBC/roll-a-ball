@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Roll-A-Ball\Scripts\AccelerometerMoving.cs">
+    <Files>
+      <File FileName="Assets\Roll-A-Ball\Scripts\CameraController.cs" Line="18" Column="2" />
+      <File FileName="Assets\Roll-A-Ball\Scripts\Rotator.cs" Line="12" Column="2" />
+      <File FileName="Assets\Roll-A-Ball\Scripts\PlayerController.cs" Line="2" Column="1" />
+      <File FileName="Assets\Roll-A-Ball\Scripts\AccelerometerMoving.cs" Line="5" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
